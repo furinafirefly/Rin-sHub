@@ -24,9 +24,14 @@
 > 
 > 在线预览：[Rin's Hub](https://hub.rinlit.cn)
 
+> [!Warning]
+>
+> 本项目因长期无人投稿，暂缓部分PR请求。                                               
+> 敬请谅解。
+
 ### 截图
 ![img.png](docs/screenshot1.png)
-目前还没任何投稿喵~
+已经有投稿了喵~
 
 ### 特性
 - 拥有类似于 Fluent Design 的优雅、美观的界面；
